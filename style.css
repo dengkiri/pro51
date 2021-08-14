@@ -1,0 +1,37 @@
+*{
+       padding:solid rgb(255, 0, 0);
+}  
+
+header{
+    border-image: 50cm;
+    background-image: repeating-linear-gradient( rgb(255, 0, 0),
+     rgb(255, 166, 0), rgb(229, 255, 0), rgb(51, 255, 0), rgb(0, 255, 157),
+       rgb(132, 237, 255), rgb(183, 0, 255));
+       font-family: 'Courier New';
+       font-variant: small-caps;
+}
+.Panda{
+    background-image: repeating-linear-gradient(rgb(0, 0, 0), rgb(255, 255, 255));
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-variant: small-caps;
+}
+.camel{
+    background-image: repeating-linear-gradient(rgb(255, 187, 0), rgb(251, 255, 0));
+    font-family: fantasy;
+    font-variant: unset;
+}
+.chameleon{
+    background-image: repeating-linear-gradient(rgb(0, 255, 0), rgb(26, 112, 4));
+    font-family: Arial, Helvetica, sans-serif;
+    font-variant: small-caps;
+}
+.pigeon{
+    background-image: repeating-linear-gradient(rgb(0, 183, 255), rgb(0, 60, 255));
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+}
+.bug{
+    background-image: repeating-linear-gradient(rgb(112, 73, 0), rgb(255, 255, 255));
+    font-family: initial;
+    font-variant: small-caps;
+}
